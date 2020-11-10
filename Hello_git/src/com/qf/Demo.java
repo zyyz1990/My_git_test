@@ -15,4 +15,10 @@ public class Demo {
         System.out.println("HelloWorld");
         System.out.println("HelloWorld");
     }
+
+    @Test
+    public void test(){
+        int i = 0 ;
+        i += 10 ;
+    }
 }
