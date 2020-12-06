@@ -17,5 +17,7 @@ public class FirstClass {
         System.out.println("i:"+i);
         System.out.println("----------------");
         System.out.println("hello,git");
+
+        System.out.println("hello,JavaEE");
     }
 }
